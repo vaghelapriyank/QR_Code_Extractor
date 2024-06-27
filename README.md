@@ -115,7 +115,10 @@ This project is licensed under the MIT License.
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
-Priyank Vaghela
-Email: vaghelapriyank142@gmail.com
-Contact: +91 9925339131
-LinkedIn: https://www.linkedin.com/in/priyank-vaghela-758726173/
+*Priyank Vaghela*
+
+*Email:* vaghelapriyank142@gmail.com
+
+*Contact:* +91 9925339131
+
+*LinkedIn:* https://www.linkedin.com/in/priyank-vaghela-758726173/
